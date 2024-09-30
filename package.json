@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "sponsorkit -o ."
+  },
+  "devDependencies": {
+    "sponsorkit": "*"
+  }
+}
